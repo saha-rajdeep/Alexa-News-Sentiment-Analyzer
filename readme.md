@@ -35,5 +35,5 @@ IOT button design diagram is kept at iot_button_design.png and Alexa design illu
 
 
 
-**Contact:** 
+**Contact Author:** 
 If you like what you see and want to connect with me, send a linkedin invite to https://www.linkedin.com/in/rajdeep-saha-4ba24744/
