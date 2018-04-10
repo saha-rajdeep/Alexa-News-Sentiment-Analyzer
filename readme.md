@@ -3,7 +3,7 @@ Create a DynamoDB table named "news" with Partition key "sentiment" and check "A
 
 
 **2. Register at newsapi.org for your own API Key:**
-Once you get your key replace <your API key here> in insertDynamoIOT.py lambda
+Once you get your key replace <your API key here> in IOTLambda.py lambda (under iotButton_Lambda folder).
 
 
 **3. Lambdas:**
@@ -11,7 +11,7 @@ There are two Lambdas - IOTLambda.py (under iotButton_Lambda folder) and AlexaLa
 
 
 **4. If you DON'T have an IOT button:**
-Not to worry, we can simulate iot button. Create IOTLambda.py and then 
+Not to worry, we can simulate iot button. Create IOTLambda.py and then do the following: 
 
 A. Configure a test event named "singleclick" with below json:
 
