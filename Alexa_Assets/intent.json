@@ -1,0 +1,52 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "uncle sam",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "NewsIntent",
+                    "slots": [],
+                    "samples": [
+                        "to tell me news analytics"
+                    ]
+                },
+                {
+                    "name": "PositiveIntent",
+                    "slots": [],
+                    "samples": [
+                        "to tell me some positive news",
+                        "to tell me some good news"
+                    ]
+                },
+                {
+                    "name": "NegativeIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me some bad news",
+                        "to tell me some negative news"
+                    ]
+                },
+                {
+                    "name": "NeutralIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me some neutral news"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
